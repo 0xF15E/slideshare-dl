@@ -1,2 +1,2 @@
 # slideshare-dl
-slideshare download utility
+slideshare python download utility
